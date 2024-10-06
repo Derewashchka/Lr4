@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 0,
+    "Name": "Katya s kotoroy prikol'no proshchat'sya",
+    "Age": 14
+  },
+  {
+    "Id": 1,
+    "Name": "Valeriy Deadinside",
+    "Age": 20
+  },
+  {
+    "Id": 2,
+    "Name": "Ivan Naykrashchyy Starosta",
+    "Age": 19
+  },
+  {
+    "Id": 3,
+    "Name": "Yana Vigator",
+    "Age": 91
+  },
+  {
+    "Id": 4,
+    "Name": "Oleg Bez B",
+    "Age": 41
+  },
+  {
+    "Id": 5,
+    "Name": "Svetlana Bezryadonna",
+    "Age": 91
+  }
+]
